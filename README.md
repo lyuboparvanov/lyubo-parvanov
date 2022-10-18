@@ -1,7 +1,7 @@
 ## Hello,
    My name is Lyubomir Parvanov I am a Python developer from Bulgaria.
    I am currently located in UK. I am very passionate to learn new things 
-   and ugprade my knowledges.
+   and ugprade my knowledge.
    
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
